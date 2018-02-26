@@ -8,6 +8,7 @@ import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_bagde.*
 
 class BagdeActivity : AppCompatActivity() {
+    //Prova user
     //https://manijshrestha.wordpress.com/2017/06/03/using-room-with-kotlin/
 
     override fun onCreate(savedInstanceState: Bundle?) {
